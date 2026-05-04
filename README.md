@@ -1,1 +1,1 @@
-
+SoulSync is a full-stack journaling application that allows users to write, organize, and analyze their daily thoughts with mood tracking. I built features like authentication, collection-based entries, and a dashboard for analytics using Next.js, Prisma, and PostgreSQL.
